@@ -113,8 +113,8 @@ class CreditsState extends MusicBeatState
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'","Программист в Friday Night Funkin'",							'https://twitter.com/ninja_muffin99',	'CF2D2D'],
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'","Аниматор в Friday Night Funkin'",								'https://twitter.com/PhantomArcade3K',	'FADC45'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'","Артист в Friday Night Funkin'",								'https://twitter.com/evilsk8r',			'5ABD4B'],
-			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'","Композитор в Friday Night Funkin'",		                                                						'https://twitter.com/Xxgamerzinxx',		'378FC7'],
-			['Xxgamerzin',                  'Xxgamerzin',           "Modified and forked psych engine repository'",
+			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'","Композитор в Friday Night Funkin'",		                                                						'https://twitter.com',		'378FC7'],
+			['Xxgamerzin',                  'Xxgamerzin',           "Modified and forked psych engine repository'",                                                                                          'https://', 'CF2D2D']
 		];
 		
 		for(i in pisspoop){
